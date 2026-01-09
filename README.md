@@ -34,7 +34,7 @@ The OD files needed for the code to run are  deposited here. Each csv file is ti
   - NameDeterminandName - antibioitc
   - BelowMinReading - whether below the minimum reading for quantification (Y/N)     
 
-- _**15092025_naoh.txt**_: contains OD readings for NaOH solvent control
+- _**naoh_control.txt**_: contains OD readings for NaOH solvent control
   - Kinetic_read - time
   - A1-H12 - OD readings for each well 
 
