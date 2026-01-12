@@ -7,8 +7,7 @@ The preprint DOI is here:
 ## Outline 
 This repository contains the data and code for the manuscript 'SELECT 2.0: Refined and open access SELection Endpoints in Communities of bacTeria (SELECT) method to determine concentrations of antibiotics that may select for antimicrobial resistance in the environment' by Hayes & Kaye et al., XX. The code here can recreate all analyses, figures and tables. 
 
-## Information about the files
-
+## Data
 ### Antibiotic OD Files 
 The OD files needed for the code to run are  deposited here. Each csv file is titled by antibiotic. These are processed with _**01_select2.0**_
 - conc - concentration of antibiotic (mg/L)
@@ -34,11 +33,12 @@ The OD files needed for the code to run are  deposited here. Each csv file is ti
   - NameDeterminandName - antibioitc
   - BelowMinReading - whether below the minimum reading for quantification (Y/N)     
 
-- _**naoh_control.txt**_: contains OD readings for NaOH solvent control
+### Solvent Control
+- **naoh_control.txt**_: contains OD readings for NaOH solvent control
   - Kinetic_read - time
   - A1-H12 - OD readings for each well 
 
-### Code
+## Code
 Each file is named for the analyses within
 - _**01_select2.0**_: this script will generate SELECT 1.0 LOECs and PNECRs, and 2.0 EC1s and PNECRs for all antibiotics tested in this study
 - _**02_comparison_between_methods**_: this script determines the difference between the SELECT 1.0 and 2.0 PNECRs for the antibiotics in this study. It also allows you to perform a Bland-Altman analysis.
