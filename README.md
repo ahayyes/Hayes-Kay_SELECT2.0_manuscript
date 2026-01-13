@@ -1,11 +1,11 @@
-# Hayes-Kaye_SELECT2.0_manuscript
-Data and code for the SELECT 2.0 manuscript by Hayes and Kaye et al., 
+# Hayes-Kay_SELECT2.0_manuscript
+Data and code for the SELECT 2.0 manuscript by Hayes and Kay et al., 
 
 Data and code are deposited here and at Zenodo DOI: 
 The preprint DOI is here: 
 
 ## Outline 
-This repository contains the data and code for the manuscript 'SELECT 2.0: Refined and open access SELection Endpoints in Communities of bacTeria (SELECT) method to determine concentrations of antibiotics that may select for antimicrobial resistance in the environment' by Hayes & Kaye et al., XX. The code here can recreate all analyses, figures and tables. 
+This repository contains the data and code for the manuscript 'SELECT 2.0: Refined and open access SELection Endpoints in Communities of bacTeria (SELECT) method to determine concentrations of antibiotics that may select for antimicrobial resistance in the environment' by Hayes & Kay et al., XX. The code here can recreate all analyses, figures and tables. 
 
 ## Data
 ### Antibiotic OD Files 
