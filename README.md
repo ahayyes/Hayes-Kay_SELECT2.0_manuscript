@@ -1,7 +1,8 @@
 # Hayes & Kay_SELECT2.0_manuscript
 Data and code for the SELECT 2.0 manuscript by Hayes and Kay et al., 
 
-Data and code are deposited here and at Zenodo DOI: 
+Data and code are deposited here and at Zenodo DOI: https://doi.org/10.5281/zenodo.19202397
+
 The preprint DOI is here: 
 
 ## Outline 
