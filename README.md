@@ -1,4 +1,4 @@
-# Hayes-Kay_SELECT2.0_manuscript
+# Hayes & Kay_SELECT2.0_manuscript
 Data and code for the SELECT 2.0 manuscript by Hayes and Kay et al., 
 
 Data and code are deposited here and at Zenodo DOI: 
